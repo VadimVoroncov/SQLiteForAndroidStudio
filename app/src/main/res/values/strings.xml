@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQLiteForAndroidStudio</string>
+    <string name="CustomerName">Name</string>
+    <string name="CustomerAge">Age</string>
+    <string name="ViewAll">VIEW ALL</string>
+    <string name="Add">ADD</string>
+    <string name="ActiveCustomer">ActiveCustomer</string>
+</resources>
